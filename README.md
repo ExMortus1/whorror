@@ -1,2 +1,2 @@
 # whorror
-a game
+A game about an urban explorer that gets trapped inside a haunted mansion. But how? You see he tries to exit the building but when he exsits through the way he came in, he find himself in a mirrored version of the very same house. But not only that, redcons aside, there is also a random dude in there with you, another lost soul perhaps, maybe a creature? Im not sure, and neither are you! But now, you have to find an alternate exit, but also avoid your stalker, cause i guesss you're just an introvert and encountering someone else makes you uncfomfortable.
